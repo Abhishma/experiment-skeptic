@@ -1,0 +1,17 @@
+{
+  "readout_id": "EXP-001",
+  "status": "critique_ready",
+  "issues": [
+    "missing_segment_analysis",
+    "rollout_overreach"
+  ],
+  "severity_band": "medium",
+  "missing_evidence": [
+    "Mobile segment review missing"
+  ],
+  "safer_recommendation_frame": "Promising result, but do not recommend full rollout until mobile segment review is complete.",
+  "questions_to_answer": [
+    "How did the mobile segment perform?",
+    "What would change the recommendation from phased rollout to full rollout?"
+  ]
+}

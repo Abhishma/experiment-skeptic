@@ -1,0 +1,9 @@
+{
+  "readout_id": "EXP-003",
+  "summary": "Variant C seems better. Recommend rollout.",
+  "primary_metric_definition": "",
+  "sample_size_note": "",
+  "segment_notes": "",
+  "secondary_metric_notes": "",
+  "rollout_recommendation": "full rollout"
+}

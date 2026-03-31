@@ -1,0 +1,9 @@
+{
+  "readout_id": "EXP-001",
+  "summary": "Variant B improved checkout completion by 2.1% with p<0.05. Recommending full rollout.",
+  "primary_metric_definition": "checkout completion",
+  "sample_size_note": "powered for primary metric only",
+  "segment_notes": "mobile segment not reviewed",
+  "secondary_metric_notes": "support contacts unchanged",
+  "rollout_recommendation": "roll out to 100% of traffic"
+}

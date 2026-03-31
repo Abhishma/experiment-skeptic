@@ -1,0 +1,53 @@
+{
+  "type": "object",
+  "required": [
+    "readout_id",
+    "status",
+    "issues",
+    "severity_band",
+    "missing_evidence",
+    "safer_recommendation_frame",
+    "questions_to_answer"
+  ],
+  "properties": {
+    "readout_id": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "critique_ready",
+        "abstained"
+      ]
+    },
+    "issues": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "severity_band": {
+      "type": "string",
+      "enum": [
+        "low",
+        "medium",
+        "high"
+      ]
+    },
+    "missing_evidence": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "safer_recommendation_frame": {
+      "type": "string"
+    },
+    "questions_to_answer": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

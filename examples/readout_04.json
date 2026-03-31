@@ -1,0 +1,9 @@
+{
+  "readout_id": "EXP-004",
+  "summary": "PDP module increased add-to-cart rate, but average order value declined in the same period.",
+  "primary_metric_definition": "add-to-cart rate",
+  "sample_size_note": "adequate sample size",
+  "segment_notes": "all major segments reviewed",
+  "secondary_metric_notes": "AOV down 6%",
+  "rollout_recommendation": "ship to all users"
+}

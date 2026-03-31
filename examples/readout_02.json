@@ -1,0 +1,9 @@
+{
+  "readout_id": "EXP-002",
+  "summary": "New search layout improved click-through by 4.8% over 2 days.",
+  "primary_metric_definition": "search CTR",
+  "sample_size_note": "small sample, only 2 days",
+  "segment_notes": "desktop only",
+  "secondary_metric_notes": "conversion not reviewed",
+  "rollout_recommendation": "ship broadly next week"
+}

@@ -1,0 +1,31 @@
+{
+  "type": "object",
+  "required": [
+    "readout_id",
+    "summary",
+    "rollout_recommendation"
+  ],
+  "properties": {
+    "readout_id": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "primary_metric_definition": {
+      "type": "string"
+    },
+    "sample_size_note": {
+      "type": "string"
+    },
+    "segment_notes": {
+      "type": "string"
+    },
+    "secondary_metric_notes": {
+      "type": "string"
+    },
+    "rollout_recommendation": {
+      "type": "string"
+    }
+  }
+}
